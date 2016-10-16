@@ -1,3 +1,4 @@
 commit #001 on 10.10.2016 for letter 'S'
 commit #002 on 11.10.2016 for letter 'S'
 commit #003 on 15.10.2016 for letter 'S'
+commit #004 on 16.10.2016 for letter 'S'
